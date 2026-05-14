@@ -1,4 +1,4 @@
-package pl.piegoose.joboffers.domain.Offer;
+package pl.piegoose.joboffers.domain.offer;
 
 public class OfferFacade {
     public void findAllOffers(){}
